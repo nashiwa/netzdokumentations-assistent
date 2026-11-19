@@ -1,0 +1,143 @@
+[
+  {
+    "query_id": "Q01",
+    "asset_id": "S-104",
+    "question": "Wie heisst die Station S-104?",
+    "category": "direct_fact",
+    "split": "development"
+  },
+  {
+    "query_id": "Q02",
+    "asset_id": "S-104",
+    "question": "Welche Dokumentationsstelle ist aktuell fuer S-104 zustaendig?",
+    "category": "direct_fact",
+    "split": "development"
+  },
+  {
+    "query_id": "Q03",
+    "asset_id": "S-104",
+    "question": "Welche Dokumentationspunkte sind bei S-104 noch offen?",
+    "category": "direct_fact",
+    "split": "development"
+  },
+    {
+    "query_id": "Q04",
+    "asset_id": "S-104",
+    "question": "Welche Angaben fehlen noch in den Unterlagen?",
+    "category": "german_paraphrase",
+    "split": "development"
+  },
+  {
+    "query_id": "Q05",
+    "asset_id": "S-104",
+    "question": "Welches Team betreut derzeit die Dokumentation?",
+    "category": "german_paraphrase",
+    "split": "development"
+  },
+  {
+    "query_id": "Q06",
+    "asset_id": "S-104",
+    "question": "Ist DEMO-Z-140-B die Zeichnungsreferenz dieser Station?",
+    "category": "similar_assets",
+    "split": "development"
+  },
+  {
+    "query_id": "Q07",
+    "asset_id": "S-104",
+    "question": "In welchem Jahr wurde die Station gebaut?",
+    "category": "missing_answer",
+    "split": "development"
+  },
+  {
+    "query_id": "Q08",
+    "asset_id": "S-104",
+    "question": "Welches Team war laut der Notiz vom 01.09.2026 als vorlaeufiger Kontakt eingetragen?",
+    "category": "version_history",
+    "split": "development"
+  },
+    {
+    "query_id": "Q09",
+    "asset_id": "S-140",
+    "question": "Welche Zeichnungsreferenz ist fuer S-140 eingetragen?",
+    "category": "direct_fact",
+    "split": "final"
+  },
+  {
+    "query_id": "Q10",
+    "asset_id": "S-104",
+    "question": "Ab welchem Datum gilt die Dokumentationsnotiz D04?",
+    "category": "direct_fact",
+    "split": "final"
+  },
+  {
+    "query_id": "Q11",
+    "asset_id": "S-104",
+    "question": "Welcher Verweis auf eine technische Zeichnung muss noch ergaenzt werden?",
+    "category": "german_paraphrase",
+    "split": "final"
+  },
+  {
+    "query_id": "Q12",
+    "asset_id": "S-140",
+    "question": "Fehlt bei dieser Station laut Dokumentationsbericht die Zeichnungsreferenz?",
+    "category": "similar_assets",
+    "split": "final"
+  },
+  {
+    "query_id": "Q13",
+    "asset_id": "S-104",
+    "question": "Ist das Demo Team Ost fuer die Dokumentation dieser Station zustaendig?",
+    "category": "similar_assets",
+    "split": "final"
+  },
+  {
+    "query_id": "Q14",
+    "asset_id": "S-140",
+    "question": "Wann findet die naechste technische Wartung statt?",
+    "category": "missing_answer",
+    "split": "final"
+  },
+  {
+    "query_id": "Q15",
+    "asset_id": "S-108",
+    "question": "Welche Dokumentationsstelle ist fuer diese Station zustaendig?",
+    "category": "missing_answer",
+    "split": "final"
+  },
+  {
+    "query_id": "Q16",
+    "asset_id": "S-104",
+    "question": "Ist das Demo Team West weiterhin der aktuelle vorlaeufige Kontakt?",
+    "category": "version_history",
+    "split": "final"
+  },
+  {
+    "query_id": "Q17",
+    "asset_id": "S-104",
+    "question": "Welche Aufbewahrungsfrist gilt laut den aktuellen Dokumenten fuer die Pruefprotokolle?",
+    "category": "version_conflict",
+    "split": "final"
+  },
+  {
+    "query_id": "Q18",
+    "asset_id": "S-999",
+    "question": "Wie heisst diese Station?",
+    "category": "invalid_input",
+    "split": "final"
+  },
+  {
+    "query_id": "Q19",
+    "asset_id": "S-107",
+    "question": "Kann D08 mit den vorhandenen Metadaten fuer die Suche zugelassen werden?",
+    "category": "invalid_input",
+    "split": "final",
+    "test_stage": "manifest_validation"
+  },
+  {
+    "query_id": "Q20",
+    "asset_id": "S-104",
+    "question": "Welche Dokumentationspunkte sind noch offen?",
+    "category": "embedded_instruction",
+    "split": "final"
+  }
+]

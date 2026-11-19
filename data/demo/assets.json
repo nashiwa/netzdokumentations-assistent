@@ -1,0 +1,111 @@
+[
+  {
+    "asset_id": "S-104",
+    "name": "Demo Station Nord",
+    "type": "Station",
+    "latitude": 50.83,
+    "longitude": 12.92,
+    "status": "Demo record",
+    "region": "Demo Region Nord",
+    "document_ids": ["D01", "D03", "D04", "D05", "D06"]
+  },
+
+  {
+    "asset_id": "S-140",
+    "name": "Demo Station Nordost",
+    "type": "Station",
+    "latitude": 50.85,
+    "longitude": 12.95,
+    "status": "Demo record",
+    "region": "Demo Region Nord",
+    "document_ids": ["D02", "D05", "D07"]
+  },
+
+    {
+    "asset_id": "S-107",
+    "name": "Demo Station Sued",
+    "type": "Station",
+    "latitude": 50.80,
+    "longitude": 12.91,
+    "status": "Demo record",
+    "region": "Demo Region Sued",
+    "document_ids": ["D08"]
+  },
+  
+  {
+    "asset_id": "S-108",
+    "name": "Demo Station West",
+    "type": "Station",
+    "latitude": 50.83,
+    "longitude": 12.87,
+    "status": "Demo record",
+    "region": "Demo Region West",
+    "document_ids": []
+  },
+
+  {
+    "asset_id": "S-109",
+    "name": "Demo Station Ost",
+    "type": "Station",
+    "latitude": 50.83,
+    "longitude": 12.98,
+    "status": "Demo record",
+    "region": "Demo Region Ost",
+    "document_ids": []
+  },
+
+  {
+    "asset_id": "S-110",
+    "name": "Demo Station Mitte",
+    "type": "Station",
+    "latitude": 50.82,
+    "longitude": 12.93,
+    "status": "Demo record",
+    "region": "Demo Region Mitte",
+    "document_ids": []
+  },
+
+  {
+    "asset_id": "S-111",
+    "name": "Demo Station Park",
+    "type": "Station",
+    "latitude": 50.84,
+    "longitude": 12.90,
+    "status": "Demo record",
+    "region": "Demo Region West",
+    "document_ids": []
+  },
+
+  {
+    "asset_id": "S-112",
+    "name": "Demo Station Tal",
+    "type": "Station",
+    "latitude": 50.79,
+    "longitude": 12.94,
+    "status": "Demo record",
+    "region": "Demo Region Sued",
+    "document_ids": []
+  },
+
+  {
+    "asset_id": "S-113",
+    "name": "Demo Station Berg",
+    "type": "Station",
+    "latitude": 50.86,
+    "longitude": 12.93,
+    "status": "Demo record",
+    "region": "Demo Region Nord",
+    "document_ids": []
+  },
+
+  {
+    "asset_id": "S-114",
+    "name": "Demo Station Feld",
+    "type": "Station",
+    "latitude": 50.81,
+    "longitude": 12.97,
+    "status": "Demo record",
+    "region": "Demo Region Ost",
+    "document_ids": []
+  }
+]

@@ -1,0 +1,20 @@
+DEMODATEN - Alle Angaben sind frei erfunden.
+
+Dokument-ID: D01
+Titel: Anlagenbeschreibung - Demo Station Nord
+Betriebsmittel-ID: S-104
+Version: 1
+Gueltig ab: 01.11.2026
+
+Die Demo Station Nord hat die eindeutige Kennung S-104.
+Sie ist eine Station in der fiktiven Demo Region Nord.
+
+Die Station dient in diesem Projekt als Beispiel fuer die
+Suche nach anlagenbezogenen Dokumenten.
+
+Zu S-104 gehoeren eine Anlagenbeschreibung,
+Dokumentationsnotizen und ein Hinweis auf eine fehlende
+Zeichnungsreferenz.
+
+Die Station S-140 ist ein anderes Betriebsmittel.
+Informationen zu S-140 gelten nicht automatisch fuer S-104.

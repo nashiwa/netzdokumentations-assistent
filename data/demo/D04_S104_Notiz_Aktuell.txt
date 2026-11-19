@@ -1,0 +1,27 @@
+DEMODATEN - Alle Angaben sind frei erfunden.
+
+Dokument-ID: D04
+Titel: Dokumentationsnotiz - Demo Station Nord
+Betriebsmittel-ID: S-104
+Version: 2
+Gueltig ab: 01.11.2026
+Ersetzt: D03
+
+Diese Notiz ersetzt das Dokument D03.
+
+Die zustaendige Dokumentationsstelle fuer S-104
+ist das Demo Team Nord.
+
+Die zuvor fehlende Angabe der Dokumentationsstelle
+wurde im Anlagenverzeichnis ergaenzt.
+
+Das Demo Team West ist nicht mehr als vorlaeufiger
+Kontakt eingetragen.
+
+Diese Aktualisierung betrifft nur die Dokumentationsstelle.
+Sie bestaetigt nicht, dass andere offene
+Dokumentationspunkte erledigt sind.
+
+Zusaetzliche fiktive Dokumentationsvorgabe:
+Pruefprotokolle fuer S-104 werden im Demo-Projekt
+fuenf Jahre aufbewahrt.

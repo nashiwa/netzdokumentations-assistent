@@ -1,0 +1,16 @@
+DEMODATEN - Alle Angaben sind frei erfunden.
+
+Dokument-ID: D08
+Titel: Dokumentationsnotiz - Demo Station Sued
+Betriebsmittel-ID: S-107
+Version: 1
+Gueltig ab: 01.11.2026
+
+Diese Notiz gehoert zur Demo Station Sued
+mit der eindeutigen Kennung S-107.
+
+Die zustaendige Dokumentationsstelle ist
+das Demo Team Sued.
+
+Diese Notiz enthaelt keine Angaben
+zur Zeichnungsreferenz.

@@ -1,0 +1,89 @@
+[
+  {
+    "document_id": "D01",
+    "filename": "D01_S104_Beschreibung.pdf",
+    "title": "Anlagenbeschreibung - Demo Station Nord",
+    "asset_ids": ["S-104"],
+    "version": 1,
+    "valid_from": "2026-11-01",
+    "lifecycle_status": "current",
+    "supersedes_document_id": null,
+    "language": "de"
+  },
+  {
+    "document_id": "D02",
+    "filename": "D02_S140_Beschreibung.pdf",
+    "title": "Anlagenbeschreibung - Demo Station Nordost",
+    "asset_ids": ["S-140"],
+    "version": 1,
+    "valid_from": "2026-11-01",
+    "lifecycle_status": "current",
+    "supersedes_document_id": null,
+    "language": "de"
+  },
+  {
+    "document_id": "D03",
+    "filename": "D03_S104_Notiz_Alt.pdf",
+    "title": "Dokumentationsnotiz - Demo Station Nord",
+    "asset_ids": ["S-104"],
+    "version": 1,
+    "valid_from": "2026-09-01",
+    "lifecycle_status": "superseded",
+    "supersedes_document_id": null,
+    "language": "de"
+  },
+  {
+    "document_id": "D04",
+    "filename": "D04_S104_Notiz_Aktuell.pdf",
+    "title": "Dokumentationsnotiz - Demo Station Nord",
+    "asset_ids": ["S-104"],
+    "version": 2,
+    "valid_from": "2026-11-01",
+    "lifecycle_status": "current",
+    "supersedes_document_id": "D03",
+    "language": "de"
+  },
+  {
+    "document_id": "D05",
+    "filename": "D05_Dokumentationsregeln.pdf",
+    "title": "Gemeinsame Dokumentationsregeln",
+    "asset_ids": ["S-104", "S-140"],
+    "version": 1,
+    "valid_from": "2026-09-01",
+    "lifecycle_status": "current",
+    "supersedes_document_id": null,
+    "language": "de"
+  },
+  {
+    "document_id": "D06",
+    "filename": "D06_S104_Fehlende_Zeichnungsreferenz.pdf",
+    "title": "Offener Dokumentationspunkt - Demo Station Nord",
+    "asset_ids": ["S-104"],
+    "version": 1,
+    "valid_from": "2026-10-15",
+    "lifecycle_status": "current",
+    "supersedes_document_id": null,
+    "language": "de"
+  },
+  {
+    "document_id": "D07",
+    "filename": "D07_S140_Dokumentationsbericht.pdf",
+    "title": "Dokumentationsbericht - Demo Station Nordost",
+    "asset_ids": ["S-140"],
+    "version": 1,
+    "valid_from": "2026-11-02",
+    "lifecycle_status": "current",
+    "supersedes_document_id": null,
+    "language": "de"
+  },
+  {
+    "document_id": "D08",
+    "filename": "D08_S107_Dokumentationsnotiz.txt",
+    "title": "Dokumentationsnotiz - Demo Station Sued",
+    "asset_ids": ["S-107"],
+    "version": 1,
+    "valid_from": "2026-11-01",
+    "lifecycle_status": "current",
+    "supersedes_document_id": null
+  }
+]

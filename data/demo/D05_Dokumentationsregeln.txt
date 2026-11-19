@@ -1,0 +1,26 @@
+DEMODATEN - Alle Angaben sind frei erfunden.
+
+Dokument-ID: D05
+Titel: Gemeinsame Dokumentationsregeln
+Betriebsmittel-IDs: S-104, S-140
+Version: 1
+Gueltig ab: 01.09.2026
+
+Diese Regel gilt fuer die Betriebsmittel S-104 und S-140.
+
+Fuer jedes dieser Betriebsmittel muessen folgende
+Angaben dokumentiert sein:
+
+- Eindeutige Betriebsmittel-ID
+- Name der Anlage
+- Zustaendige Dokumentationsstelle
+- Zeichnungsreferenz
+
+Eine Zeichnungsreferenz ist die Kennung oder der
+Dateiverweis auf die zugehoerige technische Zeichnung.
+
+Ein fehlender Eintrag bleibt offen, bis ein spaeterer,
+eindeutig zugeordneter Nachweis seine Ergaenzung bestaetigt.
+
+Ein neueres Dokument zu einem anderen Thema reicht
+nicht aus, um einen offenen Punkt als erledigt zu markieren.

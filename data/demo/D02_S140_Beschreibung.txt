@@ -1,0 +1,19 @@
+DEMODATEN - Alle Angaben sind frei erfunden.
+
+Dokument-ID: D02
+Titel: Anlagenbeschreibung - Demo Station Nordost
+Betriebsmittel-ID: S-140
+Version: 1
+Gueltig ab: 01.11.2026
+
+Die Demo Station Nordost hat die eindeutige Kennung S-140.
+Sie ist eine Station in der fiktiven Demo Region Nord.
+
+Die Station dient in diesem Projekt als Beispiel fuer die
+Suche nach anlagenbezogenen Dokumenten.
+
+Zu S-140 gehoeren eine Anlagenbeschreibung und ein
+Dokumentationsbericht.
+
+Die Station S-104 ist ein anderes Betriebsmittel.
+Informationen zu S-104 gelten nicht automatisch fuer S-140.

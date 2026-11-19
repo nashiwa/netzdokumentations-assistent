@@ -1,0 +1,22 @@
+DEMODATEN - Alle Angaben sind frei erfunden.
+
+Dokument-ID: D07
+Titel: Dokumentationsbericht - Demo Station Nordost
+Betriebsmittel-ID: S-140
+Version: 1
+Gueltig ab: 02.11.2026
+
+Dieser Bericht gilt ausschliesslich fuer S-140.
+
+Die zustaendige Dokumentationsstelle ist das Demo Team Ost.
+
+Im Anlagenverzeichnis ist die Zeichnungsreferenz
+DEMO-Z-140-B eingetragen.
+
+Die Betriebsmittel-ID, der Anlagenname und die
+zustaendige Dokumentationsstelle sind ebenfalls erfasst.
+
+Fuer die in D05 geforderten Angaben wurden bei dieser
+Pruefung keine fehlenden Eintraege festgestellt.
+
+Dieser Bericht macht keine Aussage ueber S-104.
